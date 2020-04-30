@@ -27,7 +27,7 @@
     "faker": "^4.1.0",
     "file-loader": "^5.0.2",
     "identity-obj-proxy": "^3.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mongoose": "^5.8.9",
     "morgan": "^1.9.1",
     "mysql": "^2.18.1",
