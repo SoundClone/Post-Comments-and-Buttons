@@ -11,3 +11,6 @@ This is the readme file for the Post Comments and Buttons of the SoundCloud clon
 ## API Call with sample Data
 /songs API GET Request
 ![API Call Demo](img/API.gif)
+
+## Video Demo of the entire project
+https://www.youtube.com/watch?v=u2_wic1C-Io&feature=youtu.be
